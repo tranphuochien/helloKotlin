@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demoKotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1865704770346832</string>
+    <string name="fb_login_protocol_scheme">fb1865704770346832</string>
+
+    <string name="error_message">No Data Available\nThere are three things you can do\n1.Pull to refresh to try again\n2.Enable internet connection and wait, app will reconnect on its own\n3. Use SnackBar Retry button</string>
+
+</resources>
